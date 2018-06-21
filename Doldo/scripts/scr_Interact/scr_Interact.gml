@@ -27,4 +27,5 @@ with (inst)
 {
 	script_execute(interaction)
 }
-state = states.normal;
+
+if (!inst) state = states.normal;

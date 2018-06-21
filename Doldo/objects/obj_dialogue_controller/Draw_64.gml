@@ -23,7 +23,7 @@ if (!fetch)
 	{
 		if (dialogue_left_facing){
 			draw_sprite(spr_portrait_box, 1, x_pos - 61, y_pos);
-			draw_sprite(dialogue_avatar, 0, x_pos - 61, y_pos +4);
+			draw_sprite(dialogue_avatar, 0, x_pos - 58, y_pos +5);
 		} else{
 			draw_sprite(spr_portrait_box, 0, x_pos + 186, y_pos);
 			draw_sprite_ext(dialogue_avatar, 0, x_pos + 248, y_pos+4, -1, 1, 0, c_white, 1);

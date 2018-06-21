@@ -4,10 +4,9 @@
     "mvc": "1.1",
     "name": "79dabc7e-dfa0-4ea8-b3c0-58417d92d223",
     "children": [
-        "3d94f077-b51a-4391-a5d2-960049b465ee",
-        "8037009f-67cd-4bcc-a6b3-8124a34f5b1b",
-        "7e993080-286c-4176-8e3b-3fffad8cbdfa",
-        "c04f03be-d584-47c5-827b-5fd481e5a6c1"
+        "c04f03be-d584-47c5-827b-5fd481e5a6c1",
+        "e6553e7c-5995-462f-863a-8a512ca000f8",
+        "0c8804f3-a556-4fcd-a592-2b22dbc1ed60"
     ],
     "filterType": "GMSprite",
     "folderName": "Dialogue",

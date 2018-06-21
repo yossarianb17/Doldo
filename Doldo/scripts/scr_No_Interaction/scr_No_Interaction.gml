@@ -1,0 +1,1 @@
+scr_Set_State(obj_player, states.normal);

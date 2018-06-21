@@ -1,6 +1,7 @@
 enum states
 {
 	normal,
-	interact
+	interact,
+	conversation
 }
 
