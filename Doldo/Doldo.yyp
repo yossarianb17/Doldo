@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "3d94f077-b51a-4391-a5d2-960049b465ee",
+            "Value": {
+                "id": "67bd873d-dd2a-4e20-9101-6d75475f9113",
+                "resourcePath": "sprites\\spr_dialogue_box\\spr_dialogue_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e11622a-bfc6-4805-8ef7-3e09bbdb90e1",
             "Value": {
                 "id": "433b86cb-fc18-466e-8125-094f880da458",
@@ -151,11 +159,27 @@
             }
         },
         {
+            "Key": "65a25571-8457-427d-98f7-d8f82354024f",
+            "Value": {
+                "id": "f11691a4-3bbc-472f-9604-cd282ba91587",
+                "resourcePath": "scripts\\scr_Add_Dialogue\\scr_Add_Dialogue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "699534ef-7425-4783-a4fd-9cf5580008df",
             "Value": {
                 "id": "879492f6-173b-4dc5-a375-d98ba2b9f3c8",
                 "resourcePath": "sprites\\spr_DoldoIdleLeft\\spr_DoldoIdleLeft.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6bb60211-77f4-4250-a8aa-190e67e9697c",
+            "Value": {
+                "id": "46434833-06f5-4259-aa40-fa87f73ec98d",
+                "resourcePath": "views\\6bb60211-77f4-4250-a8aa-190e67e9697c.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -175,6 +199,14 @@
             }
         },
         {
+            "Key": "79dabc7e-dfa0-4ea8-b3c0-58417d92d223",
+            "Value": {
+                "id": "01701b02-ea6a-44de-8320-13e67ac9d3a7",
+                "resourcePath": "views\\79dabc7e-dfa0-4ea8-b3c0-58417d92d223.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7a27134d-2748-4869-92a4-9fcbaa4d4534",
             "Value": {
                 "id": "87bbc12e-bcf8-41c5-8151-d9da3061a519",
@@ -188,6 +220,22 @@
                 "id": "0e103f6b-1c07-4b59-92e1-fca3687e6ed3",
                 "resourcePath": "tilesets\\tileset0\\tileset0.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "7e993080-286c-4176-8e3b-3fffad8cbdfa",
+            "Value": {
+                "id": "66839074-59f9-48df-9947-832bef23b969",
+                "resourcePath": "sprites\\spr_doldo_portrait\\spr_doldo_portrait.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8037009f-67cd-4bcc-a6b3-8124a34f5b1b",
+            "Value": {
+                "id": "ec1552cc-3a48-498d-b130-941ea3a92dcc",
+                "resourcePath": "sprites\\spr_portrait_box\\spr_portrait_box.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,6 +311,22 @@
             }
         },
         {
+            "Key": "a641dcfa-fc9d-4f36-9053-538ec6649142",
+            "Value": {
+                "id": "0321002a-2df8-4cfe-ac6f-e7f9474e4a3d",
+                "resourcePath": "fonts\\fnt_papyrus\\fnt_papyrus.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "aeb7be56-8180-4b76-9c9a-cccef1a5e04d",
+            "Value": {
+                "id": "0786b55d-e37b-4425-89e9-ef7b44eff97e",
+                "resourcePath": "scripts\\scr_Get_Dialogue\\scr_Get_Dialogue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b13061f5-4d8a-41d5-8d11-f2cf83d3ec9a",
             "Value": {
                 "id": "9512fe5e-0165-4ea7-a081-c9e20591b0aa",
@@ -276,6 +340,14 @@
                 "id": "bd85c4ec-55f4-4a27-94ae-2e9ac36b32c7",
                 "resourcePath": "views\\b803fbb8-8332-448e-9417-c1f031733ee2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c04f03be-d584-47c5-827b-5fd481e5a6c1",
+            "Value": {
+                "id": "a5d30714-5533-4e80-bd6e-67945f0bfe81",
+                "resourcePath": "sprites\\spr_interlocutor\\spr_interlocutor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -300,6 +372,22 @@
                 "id": "e771a6e2-da64-4d52-b9d3-3671c89f5dc3",
                 "resourcePath": "views\\c3524806-d733-4d22-841c-433029452dec.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c82dc208-e2aa-4876-bd42-5970319f1a2b",
+            "Value": {
+                "id": "ba5db9e0-44ec-4f0f-9083-1002e9cf7e53",
+                "resourcePath": "objects\\obj_dialogue_controller\\obj_dialogue_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb9669cb-a4af-4963-be82-4e54e81dfea9",
+            "Value": {
+                "id": "8387c7ae-332e-4e2c-a6fb-0a0550a44b38",
+                "resourcePath": "fonts\\fnt_arial\\fnt_arial.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -351,6 +439,14 @@
             }
         },
         {
+            "Key": "f63c8bfb-d352-460f-b0ae-c140e5e15694",
+            "Value": {
+                "id": "d7576b9c-36b0-4c76-8739-13dbb9f8e79b",
+                "resourcePath": "scripts\\scr_Start_Dialogue\\scr_Start_Dialogue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f654a482-024e-4086-8d86-967a4406d340",
             "Value": {
                 "id": "335e8f20-d152-4c64-a67c-e1f5f80535ee",
@@ -363,6 +459,9 @@
         "067fb5dd-0ffd-4d30-9143-a3611b179d67",
         "83125473-f8fe-4075-a8ef-562bc02907fe",
         "9e87421a-face-4603-a60b-d32db1c84ed4",
+        "65a25571-8457-427d-98f7-d8f82354024f",
+        "f63c8bfb-d352-460f-b0ae-c140e5e15694",
+        "aeb7be56-8180-4b76-9c9a-cccef1a5e04d",
         "5e3bdf20-9d05-4580-9334-5ece54f02405"
     ],
     "tutorial": ""

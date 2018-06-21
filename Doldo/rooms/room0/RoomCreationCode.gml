@@ -3,3 +3,4 @@ enum states
 	normal,
 	interact
 }
+

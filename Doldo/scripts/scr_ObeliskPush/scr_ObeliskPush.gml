@@ -1,7 +1,2 @@
 x +=16;
-t = 300;
-while (t>0)
-{
-	draw_text(16,16, "fuck you man!");
-	t -= 1;
-}
+scr_Start_Dialogue(obj_player, obj_player.d_obelisk_interact)
