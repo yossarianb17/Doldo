@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "232a175d-c7fa-495d-9db5-96d73049f088",
+            "Value": {
+                "id": "892086e8-c773-4cf9-9c98-5971a6049984",
+                "resourcePath": "views\\232a175d-c7fa-495d-9db5-96d73049f088.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3e11622a-bfc6-4805-8ef7-3e09bbdb90e1",
             "Value": {
                 "id": "433b86cb-fc18-466e-8125-094f880da458",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "5266a6b7-081a-47d9-aa2a-1ac13d0cf2c5",
+            "Value": {
+                "id": "74ea2891-3859-44a3-bf60-6829e1c3e81d",
+                "resourcePath": "objects\\obj_interactable\\obj_interactable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "532dc35e-1fca-4a68-93ab-f7e67eb2bb09",
             "Value": {
                 "id": "76a1960b-b2ad-4da8-ad9b-fbd17715c639",
@@ -108,6 +124,14 @@
                 "id": "68e79369-d022-4217-a40f-665c3a787a6a",
                 "resourcePath": "views\\58cd110e-ad42-446a-814e-2b0a18c493e3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5e3bdf20-9d05-4580-9334-5ece54f02405",
+            "Value": {
+                "id": "5be1c9f6-91b2-4d44-bd70-a7d5b27135c0",
+                "resourcePath": "scripts\\scr_ObeliskPush\\scr_ObeliskPush.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -204,6 +228,14 @@
                 "id": "e4b8c31b-def8-48b1-b9cb-a9eeb107e4c9",
                 "resourcePath": "sprites\\spr_DoldoIdleRight\\spr_DoldoIdleRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e87421a-face-4603-a60b-d32db1c84ed4",
+            "Value": {
+                "id": "3903666f-0a74-4112-adff-9fe54167ef4f",
+                "resourcePath": "scripts\\scr_Interact\\scr_Interact.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -329,7 +361,9 @@
     ],
     "script_order": [
         "067fb5dd-0ffd-4d30-9143-a3611b179d67",
-        "83125473-f8fe-4075-a8ef-562bc02907fe"
+        "83125473-f8fe-4075-a8ef-562bc02907fe",
+        "9e87421a-face-4603-a60b-d32db1c84ed4",
+        "5e3bdf20-9d05-4580-9334-5ece54f02405"
     ],
     "tutorial": ""
 }

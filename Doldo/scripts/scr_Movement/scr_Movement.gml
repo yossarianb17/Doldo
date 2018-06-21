@@ -1,7 +1,7 @@
 if(keyright) && (move == 0)
 {
 	move = 16;
-	dir = "right";
+	dir = dirs.right;
 	sprite_index = spr_DoldoWalkRight;
 	
 }
@@ -9,7 +9,7 @@ if(keyright) && (move == 0)
 if(keyleft) && (move == 0)
 {
 	move = 16;
-	dir = "left";
+	dir = dirs.left;
 	sprite_index = spr_DoldoWalkLeft;
 	
 }
@@ -17,32 +17,32 @@ if(keyleft) && (move == 0)
 if(keydown) && (move == 0)
 {
 	move = 16;
-	dir = "down";
+	dir = dirs.down;
 }
 
 if(keyup) && (move == 0)
 {
 	move = 16;
-	dir = "up";
+	dir = dirs.up;
 }
 if(move>0)
 {
 	sprite_index = moving_animation;
 	switch(dir)
 	{
-		case "right":
+		case dirs.right:
 			x = x+spd;
 			moving_animation = spr_DoldoWalkRight;
 			break;
-		case "left":
+		case dirs.left:
 			x = x-spd;
 			moving_animation = spr_DoldoWalkLeft;
 			break;
-		case "down":
+		case dirs.down:
 			y += spd;
 			moving_animation = spr_DoldoWalkDown
 			break;
-		case "up":		
+		case dirs.up:		
 			y -= spd;
 			moving_animation = spr_DoldoWalkUp
 			break;

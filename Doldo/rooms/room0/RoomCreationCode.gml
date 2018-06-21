@@ -1,4 +1,5 @@
 enum states
 {
-	normal
+	normal,
+	interact
 }
