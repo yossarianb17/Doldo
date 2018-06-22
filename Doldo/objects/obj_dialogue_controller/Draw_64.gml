@@ -18,6 +18,7 @@ if (!fetch)
 	draw_sprite(spr_dialogue_box, 0, x_pos, y_pos);
 	draw_text_ext(x_pos + 10, y_pos + 6, string_hash_to_newline(dialogue_output), 16, 175);
 	
+	
 	// Draw avatar if appropriate
 	if (dialogue_avatar != "")
 	{
