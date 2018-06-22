@@ -1,0 +1,1 @@
+scr_Start_Dialogue(obj_dialogues, obj_dialogues.obelisk_combat);

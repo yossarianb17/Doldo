@@ -14,6 +14,8 @@ if (fetch)
 	dialogue_avatar = dialogue_data[2];		
 	dialogue_left_facing = dialogue_data[3];
 	dialogue_font = dialogue_data[4];
+	dialogue_script = dialogue_data[5];
+	dialogue_state = dialogue_data[6];
 	fetch = false;
 	
 } else {
@@ -42,4 +44,6 @@ if (fetch)
 			audio_sound_pitch(snd_typewriterClick, random_range(.9, 1.1))
 		}
 	previous_characters_printed = characters_printed;
+	
+	if (dialogue_script != "") script_execute(dialogue_script);
 }

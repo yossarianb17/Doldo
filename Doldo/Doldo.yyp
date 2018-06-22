@@ -103,6 +103,22 @@
             }
         },
         {
+            "Key": "259b6155-b959-48f6-a1ca-215c11d2c70b",
+            "Value": {
+                "id": "4f857946-248c-4733-8f8c-b0a8526deb12",
+                "resourcePath": "scripts\\scr_Begin_Combat\\scr_Begin_Combat.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2d2f0b0c-0c05-4a94-98ad-c4b27a4ae0f1",
+            "Value": {
+                "id": "13fb651a-4ef6-4e62-ab21-efe14ed19999",
+                "resourcePath": "views\\2d2f0b0c-0c05-4a94-98ad-c4b27a4ae0f1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3d94f077-b51a-4391-a5d2-960049b465ee",
             "Value": {
                 "id": "67bd873d-dd2a-4e20-9101-6d75475f9113",
@@ -119,11 +135,27 @@
             }
         },
         {
+            "Key": "3ece1783-8ae0-4819-b7f5-8f9dc9c1e7cf",
+            "Value": {
+                "id": "f709f619-3888-4369-b987-8c94a645f298",
+                "resourcePath": "objects\\obj_combatController\\obj_combatController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "40e16829-c3f1-434c-a38f-6690d4f396f1",
             "Value": {
                 "id": "b801479d-38ed-4a19-aac1-acb1b9eb8eff",
                 "resourcePath": "sprites\\spr_BlackBars\\spr_BlackBars.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "42b726de-55e5-4c73-b43e-e6deb317a359",
+            "Value": {
+                "id": "201674cc-7eda-4ebe-9f12-6dc055028a19",
+                "resourcePath": "views\\42b726de-55e5-4c73-b43e-e6deb317a359.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -375,6 +407,14 @@
             }
         },
         {
+            "Key": "adae11a1-f8c5-4a0c-a7a0-9271125cd609",
+            "Value": {
+                "id": "579bc7ba-ab57-4814-99c2-9c7887367094",
+                "resourcePath": "scripts\\scr_ObeliskCombat\\scr_ObeliskCombat.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "aeb7be56-8180-4b76-9c9a-cccef1a5e04d",
             "Value": {
                 "id": "0786b55d-e37b-4425-89e9-ef7b44eff97e",
@@ -585,7 +625,9 @@
         "aeb7be56-8180-4b76-9c9a-cccef1a5e04d",
         "5e3bdf20-9d05-4580-9334-5ece54f02405",
         "73850962-1924-461c-bf78-b8407f8aaab6",
-        "12a126c5-7c79-4298-9364-2fbd15eec677"
+        "adae11a1-f8c5-4a0c-a7a0-9271125cd609",
+        "12a126c5-7c79-4298-9364-2fbd15eec677",
+        "259b6155-b959-48f6-a1ca-215c11d2c70b"
     ],
     "tutorial": ""
 }

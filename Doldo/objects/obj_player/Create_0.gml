@@ -2,7 +2,8 @@ enum states
 {
 	normal,
 	interact,
-	conversation
+	conversation,
+	combat
 }
 
 
@@ -19,9 +20,3 @@ dir = dirs.right;
 spd = 1;
 moving_animation = spr_DoldoWalkRight;
 state = states.normal;
-
-
-// DIALOGUE
-dialogue = [];
-dialogue_line = 0;
-
