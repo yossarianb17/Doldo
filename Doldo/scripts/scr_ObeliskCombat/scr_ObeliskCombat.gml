@@ -1,1 +1,0 @@
-scr_Start_Dialogue(dialogue_AngryObelisk);

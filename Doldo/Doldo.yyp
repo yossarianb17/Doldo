@@ -199,14 +199,6 @@
             }
         },
         {
-            "Key": "5e3bdf20-9d05-4580-9334-5ece54f02405",
-            "Value": {
-                "id": "5be1c9f6-91b2-4d44-bd70-a7d5b27135c0",
-                "resourcePath": "scripts\\scr_ObeliskPush\\scr_ObeliskPush.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "61708124-f3f7-446b-80bb-490a67a71121",
             "Value": {
                 "id": "d311aba5-1a28-4a09-bdd5-c593612581f8",
@@ -419,14 +411,6 @@
             "Value": {
                 "id": "d3fd655a-73b2-4b6a-837e-41d4604553be",
                 "resourcePath": "scripts\\dialogue_AngryObelisk\\dialogue_AngryObelisk.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "adae11a1-f8c5-4a0c-a7a0-9271125cd609",
-            "Value": {
-                "id": "579bc7ba-ab57-4814-99c2-9c7887367094",
-                "resourcePath": "scripts\\scr_ObeliskCombat\\scr_ObeliskCombat.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -647,9 +631,7 @@
         "65a25571-8457-427d-98f7-d8f82354024f",
         "f63c8bfb-d352-460f-b0ae-c140e5e15694",
         "aeb7be56-8180-4b76-9c9a-cccef1a5e04d",
-        "5e3bdf20-9d05-4580-9334-5ece54f02405",
         "73850962-1924-461c-bf78-b8407f8aaab6",
-        "adae11a1-f8c5-4a0c-a7a0-9271125cd609",
         "12a126c5-7c79-4298-9364-2fbd15eec677",
         "99a5096d-7d2a-4856-bf48-738180b26272",
         "259b6155-b959-48f6-a1ca-215c11d2c70b",
