@@ -6,9 +6,6 @@ enum states
 	combat
 }
 
-
-cooldown = 15;
-move = 0;
 enum dirs 
 {
 	right,
@@ -16,6 +13,8 @@ enum dirs
 	up,
 	down
 }
+
+move = 0;
 dir = dirs.right;
 spd = 1;
 moving_animation = spr_DoldoWalkRight;

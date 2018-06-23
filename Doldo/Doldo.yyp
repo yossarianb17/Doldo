@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "7055e3b6-8aec-4bdb-888e-132c10ea330b",
+            "Value": {
+                "id": "78850ec8-9688-4537-87da-ee5e57a17caa",
+                "resourcePath": "views\\7055e3b6-8aec-4bdb-888e-132c10ea330b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "73850962-1924-461c-bf78-b8407f8aaab6",
             "Value": {
                 "id": "e99d63cb-2f1e-4435-ad9d-01d7ef4bb008",
@@ -343,14 +351,6 @@
             }
         },
         {
-            "Key": "8f711ddd-256a-479a-bec3-8282302abd67",
-            "Value": {
-                "id": "1f1a4b03-57c6-4c19-913b-c59e969d663d",
-                "resourcePath": "objects\\obj_dialogues\\obj_dialogues.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "96234c7c-6bc6-449b-a802-edc81caef015",
             "Value": {
                 "id": "a1d0eadf-5c38-4bc5-b5e5-449160c0b0c1",
@@ -364,6 +364,14 @@
                 "id": "e4b8c31b-def8-48b1-b9cb-a9eeb107e4c9",
                 "resourcePath": "sprites\\spr_DoldoIdleRight\\spr_DoldoIdleRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "99a5096d-7d2a-4856-bf48-738180b26272",
+            "Value": {
+                "id": "5b958cb9-e199-42e6-95ee-1bfeb2b6eb4b",
+                "resourcePath": "scripts\\scr_Get_State\\scr_Get_State.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -407,6 +415,14 @@
             }
         },
         {
+            "Key": "a71b79c1-dbde-423b-b259-33df6316f563",
+            "Value": {
+                "id": "d3fd655a-73b2-4b6a-837e-41d4604553be",
+                "resourcePath": "scripts\\dialogue_AngryObelisk\\dialogue_AngryObelisk.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "adae11a1-f8c5-4a0c-a7a0-9271125cd609",
             "Value": {
                 "id": "579bc7ba-ab57-4814-99c2-9c7887367094",
@@ -428,6 +444,14 @@
                 "id": "9512fe5e-0165-4ea7-a081-c9e20591b0aa",
                 "resourcePath": "views\\b13061f5-4d8a-41d5-8d11-f2cf83d3ec9a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b2cd42e8-712a-4c8a-9758-8cabb5a1634c",
+            "Value": {
+                "id": "5841ee0f-403c-4022-9f96-fb4b4bdc3d8e",
+                "resourcePath": "scripts\\dialogue_Obelisk\\dialogue_Obelisk.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -627,7 +651,10 @@
         "73850962-1924-461c-bf78-b8407f8aaab6",
         "adae11a1-f8c5-4a0c-a7a0-9271125cd609",
         "12a126c5-7c79-4298-9364-2fbd15eec677",
-        "259b6155-b959-48f6-a1ca-215c11d2c70b"
+        "99a5096d-7d2a-4856-bf48-738180b26272",
+        "259b6155-b959-48f6-a1ca-215c11d2c70b",
+        "b2cd42e8-712a-4c8a-9758-8cabb5a1634c",
+        "a71b79c1-dbde-423b-b259-33df6316f563"
     ],
     "tutorial": ""
 }

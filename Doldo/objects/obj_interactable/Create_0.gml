@@ -1,1 +1,2 @@
-interaction = scr_No_Interaction;
+interaction_script = scr_No_Interaction;
+arg = [];

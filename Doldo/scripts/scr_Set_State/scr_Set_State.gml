@@ -1,4 +1,4 @@
-/// @description Changee the state of an object
+/// @description Change the state of an object
 /// @param Object
 /// @param State
 

@@ -1,1 +1,2 @@
-interaction = scr_ObeliskCombat;
+interaction_script = scr_Start_Dialogue;
+arg = [dialogue_AngryObelisk];

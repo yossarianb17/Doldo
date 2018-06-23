@@ -15,7 +15,7 @@ if (fetch)
 	dialogue_left_facing = dialogue_data[3];
 	dialogue_font = dialogue_data[4];
 	dialogue_script = dialogue_data[5];
-	dialogue_state = dialogue_data[6];
+	dialogue_template = dialogue_data[6];
 	fetch = false;
 	
 } else {

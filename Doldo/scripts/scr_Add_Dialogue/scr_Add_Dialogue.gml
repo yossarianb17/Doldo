@@ -15,7 +15,7 @@ var dialogue_avatar = "";							if (argument_count >=3) dialogue_avatar = argume
 var dialogue_left_facing = true;					if (argument_count >=4) dialogue_left_facing = argument[3];
 var dialogue_font = fnt_arial;						if (argument_count >=5) dialogue_font = argument[4];
 var dialogue_script = "";							if (argument_count >=6) dialogue_script = argument[5];
-var dialogue_state = dialogue_states.world;			if (argument_count >=7) dialogue_script = argument[6];
+var dialogue_template = dialogue_templates.world;			if (argument_count >=7) dialogue_script = argument[6];
 
 dialogue_part[0] = dialogue_text;
 dialogue_part[1] = dialogue_continue;
@@ -23,7 +23,7 @@ dialogue_part[2] = dialogue_avatar;
 dialogue_part[3] = dialogue_left_facing;
 dialogue_part[4] = dialogue_font;
 dialogue_part[5] = dialogue_script;
-dialogue_part[6] = dialogue_state;
+dialogue_part[6] = dialogue_template;
 
 dialogue[dialogue_line] = dialogue_part;
 dialogue_line += 1;

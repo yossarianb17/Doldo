@@ -1,7 +1,7 @@
 /// @description draw dialogue box
-switch dialogue_state
+switch dialogue_template
 {
-	case dialogue_states.world:
+	case dialogue_templates.world:
 		if (!fetch)
 		{
 			draw_set_font(dialogue_font);
