@@ -1,5 +1,7 @@
 /// @description Get the dialogue lines
+scr_GetInput();
+
 var next = false;
-if (keyboard_check_pressed(ord("E"))) next = true;
+if (keyinteract) next = true;
 
 scr_Get_Dialogue(next);

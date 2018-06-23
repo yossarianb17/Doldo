@@ -4,13 +4,15 @@ scr_GetInput();
 
 // Interact
 if ((keyinteract) && (move == 0) && (state == states.normal)) 
-	state = states.interact;
+{
+	scr_Interact();
+	state = states.conversation;
+}
 
 // State Machine
 switch (state)
 {
 	case states.normal:	scr_Movement(); break;
-	case states.interact: scr_Interact();  break;
 	case states.conversation: scr_Conversation(); break;
 	case states.combat: break;
 }
