@@ -1,4 +1,5 @@
 scr_GetInput();
+
 if (keyinteract) && (move == 0) state = states.interact;
 switch (state)
 {
@@ -11,3 +12,8 @@ switch (state)
 	case states.combat: break;
 }
 
+// Exit the game when exit key (esc) is pressed.
+if (keyexit)
+{
+	game_end();
+}
