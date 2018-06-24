@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "41ea98cc-2b2c-412a-acf0-613a6eac4107",
+            "Value": {
+                "id": "dbb201ca-6882-403f-9cb7-ee95c861fd66",
+                "resourcePath": "sprites\\spr_combatBar\\spr_combatBar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "42b726de-55e5-4c73-b43e-e6deb317a359",
             "Value": {
                 "id": "201674cc-7eda-4ebe-9f12-6dc055028a19",
