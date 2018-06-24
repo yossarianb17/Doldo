@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "459f0f73-98dd-45ff-98a6-8f73803968c9",
+            "Value": {
+                "id": "b57948ad-6f10-4aff-8e5d-259da7f9461d",
+                "resourcePath": "sprites\\spr_L_Combatant\\spr_L_Combatant.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "475603af-d2be-412b-a776-744ce89b4404",
             "Value": {
                 "id": "d1c0b378-21e0-4477-88e7-b555ffa800f3",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "691796fe-28c3-46c1-9b0e-c8199c7cd24f",
+            "Value": {
+                "id": "fd63b158-fca1-4d1d-beb8-a2d07d65a121",
+                "resourcePath": "views\\691796fe-28c3-46c1-9b0e-c8199c7cd24f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "699534ef-7425-4783-a4fd-9cf5580008df",
             "Value": {
                 "id": "879492f6-173b-4dc5-a375-d98ba2b9f3c8",
@@ -268,6 +284,14 @@
                 "id": "9ee0c65d-c905-440f-a6c3-cb3f39717e4f",
                 "resourcePath": "objects\\obj_collider\\obj_collider.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7920cb04-aa1b-45ff-a939-8d344af1de62",
+            "Value": {
+                "id": "a60e86dc-e8af-4bd9-ae18-5c2442546256",
+                "resourcePath": "scripts\\encounter_Interlocutor\\encounter_Interlocutor.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -503,14 +527,6 @@
             }
         },
         {
-            "Key": "c99a199b-6ddd-42b0-b99e-b4f328da255a",
-            "Value": {
-                "id": "32d26c70-cb5f-4f38-a240-cadf089009eb",
-                "resourcePath": "sprites\\sprite15\\sprite15.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cb9669cb-a4af-4963-be82-4e54e81dfea9",
             "Value": {
                 "id": "8387c7ae-332e-4e2c-a6fb-0a0550a44b38",
@@ -635,6 +651,7 @@
         "12a126c5-7c79-4298-9364-2fbd15eec677",
         "99a5096d-7d2a-4856-bf48-738180b26272",
         "259b6155-b959-48f6-a1ca-215c11d2c70b",
+        "7920cb04-aa1b-45ff-a939-8d344af1de62",
         "b2cd42e8-712a-4c8a-9758-8cabb5a1634c",
         "a71b79c1-dbde-423b-b259-33df6316f563"
     ],
